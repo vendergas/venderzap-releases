@@ -1,2 +1,2 @@
 # venderzap-releases
-Lançamento de novas versões do Venderzap.
+Defina a variável de ambiente GH_TOKEN com o token de acesso do Github informado lá no trelo em "Dados úteis"
